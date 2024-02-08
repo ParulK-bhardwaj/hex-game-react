@@ -1,6 +1,6 @@
 
 import './App.css';
-import HexGame from './HexGame';
+import HexGame from './components/HexGame';
 
 function App() {
   return (
